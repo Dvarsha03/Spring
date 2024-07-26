@@ -1,0 +1,5 @@
+package org.prime.config;
+
+public class AppConfig1 {
+
+}

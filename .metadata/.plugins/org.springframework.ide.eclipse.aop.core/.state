@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="SpringDemo4Set"/>
+<aop-project name="SpringDemoAnnotation4Set"/>
+<aop-project name="SpringDemo1"/>
+<aop-project name="SpringDemoAnnotation2"/>
+<aop-project name="SpringDemoAnnotation3"/>
+<aop-project name="SpringDemo3List"/>
+</aop-reference-model>

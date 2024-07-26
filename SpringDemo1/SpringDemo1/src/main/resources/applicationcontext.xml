@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans https://www.springframework.org/schema/beans/spring-beans-4.3.xsd">
+
+
+
+	<bean name="e" class="org.primepro.Emp">
+	<!-- 	<property name="eno" value="101" />
+		<property name="name" value="Varsha" />
+		<property name="address" value="Hyderabad" /> -->
+
+		<constructor-arg name="eno" value="1" index="0" />
+		<constructor-arg name="name" value="Varsha" index="1" />
+		<constructor-arg name="address" value="Hyderabad" index="2" />
+
+	</bean>
+	</beans>

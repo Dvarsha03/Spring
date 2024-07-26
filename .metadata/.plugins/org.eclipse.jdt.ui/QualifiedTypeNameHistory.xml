@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.prime.config.AppConfig1"/>
+    <fullyQualifiedTypeName name="org.primepro.config.AppConfig2"/>
+    <fullyQualifiedTypeName name="org.primepro.beans.Emp2"/>
+    <fullyQualifiedTypeName name="org.primepro.config.AppConfig3"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="org.primepro.config.AppConfig4"/>
+    <fullyQualifiedTypeName name="org.primepro.config.AppConfig5"/>
+</qualifiedTypeNameHistroy>

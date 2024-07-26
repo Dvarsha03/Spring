@@ -1,0 +1,606 @@
+2024-07-25 18:05:19,746 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-25 18:07:10,065 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\STS Demo\Spring\SpringDemo1\SpringDemo1\pom.xml
+2024-07-25 18:07:14,525 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemo1:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo1\SpringDemo1\pom.xml.
+2024-07-25 18:07:16,294 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDemo1/src/main/java
+2024-07-25 18:07:16,338 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDemo1/src/test/java
+2024-07-25 18:07:17,762 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2024-07-25 18:07:25,314 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:07:25,314 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo1\SpringDemo1\src\main\resources
+2024-07-25 18:07:25,316 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:07:25,317 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo1\SpringDemo1\src\test\resources
+2024-07-25 18:12:51,085 [Worker-2: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemo1:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo1\SpringDemo1\pom.xml.
+2024-07-25 18:12:51,389 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:12:51,390 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo1\SpringDemo1\src\main\resources
+2024-07-25 18:12:51,392 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:12:51,393 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo1\SpringDemo1\src\test\resources
+2024-07-25 18:12:52,926 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:12:52,927 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo1\SpringDemo1\src\main\resources
+2024-07-25 18:12:52,928 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:12:52,928 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo1\SpringDemo1\src\test\resources
+2024-07-25 18:13:13,950 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-25 18:13:14,428 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemo1:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo1\SpringDemo1\pom.xml.
+2024-07-25 18:13:14,571 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDemo1/src/main/java
+2024-07-25 18:13:14,571 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDemo1/src/test/java
+2024-07-25 18:13:14,995 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2024-07-25 18:13:16,681 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:13:16,681 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo1\SpringDemo1\src\main\resources
+2024-07-25 18:13:16,683 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:13:16,684 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo1\SpringDemo1\src\test\resources
+2024-07-25 18:14:56,839 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:14:56,839 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo1\SpringDemo1\src\main\resources
+2024-07-25 18:14:56,840 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:14:56,840 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo1\SpringDemo1\src\test\resources
+2024-07-25 18:14:58,310 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:14:58,311 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo1\SpringDemo1\src\main\resources
+2024-07-25 18:14:58,311 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:14:58,312 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo1\SpringDemo1\src\test\resources
+2024-07-25 18:15:52,192 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:15:52,192 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo1\SpringDemo1\src\main\resources
+2024-07-25 18:15:52,194 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:15:52,194 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo1\SpringDemo1\src\test\resources
+2024-07-25 18:16:37,085 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:16:37,112 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 18:16:37,113 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:16:37,114 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo1\SpringDemo1\src\test\resources
+2024-07-25 18:17:15,481 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:17:15,482 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 18:17:15,489 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:17:15,489 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo1\SpringDemo1\src\test\resources
+2024-07-25 18:19:06,680 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:19:06,680 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 18:19:06,682 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:19:06,682 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo1\SpringDemo1\src\test\resources
+2024-07-25 18:20:13,943 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:20:13,943 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 18:20:13,945 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:20:13,945 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo1\SpringDemo1\src\test\resources
+2024-07-25 18:20:51,431 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:20:51,433 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 18:20:51,437 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:20:51,437 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo1\SpringDemo1\src\test\resources
+2024-07-25 18:21:07,295 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:21:07,296 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 18:21:07,301 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:21:07,301 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo1\SpringDemo1\src\test\resources
+2024-07-25 18:22:18,120 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:22:18,122 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 18:22:18,126 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:22:18,127 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo1\SpringDemo1\src\test\resources
+2024-07-25 18:24:37,771 [Worker-16: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\STS Demo\Spring\SpringDemo2\SpringDemo2\pom.xml
+2024-07-25 18:24:39,257 [Worker-16: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemo2:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo2\SpringDemo2\pom.xml.
+2024-07-25 18:24:39,515 [Worker-16: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDemo2/src/main/java
+2024-07-25 18:24:39,533 [Worker-16: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDemo2/src/test/java
+2024-07-25 18:24:39,621 [Worker-16: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2024-07-25 18:24:39,946 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:24:39,946 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo2\SpringDemo2\src\main\resources
+2024-07-25 18:24:39,947 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:24:39,948 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo2\SpringDemo2\src\test\resources
+2024-07-25 18:25:29,919 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:25:29,919 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo2\SpringDemo2\src\main\resources
+2024-07-25 18:25:29,927 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:25:29,928 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo2\SpringDemo2\src\test\resources
+2024-07-25 18:25:48,292 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:25:48,292 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo2\SpringDemo2\src\main\resources
+2024-07-25 18:25:48,294 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:25:48,295 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo2\SpringDemo2\src\test\resources
+2024-07-25 18:26:04,969 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:26:04,969 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo2\SpringDemo2\src\main\resources
+2024-07-25 18:26:04,970 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:26:04,970 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo2\SpringDemo2\src\test\resources
+2024-07-25 18:26:40,749 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:26:40,750 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 18:26:40,753 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:26:40,753 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo2\SpringDemo2\src\test\resources
+2024-07-25 18:28:02,243 [Worker-18: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemo2:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo2\SpringDemo2\pom.xml.
+2024-07-25 18:28:02,617 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:28:02,617 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 18:28:02,620 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:28:02,621 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo2\SpringDemo2\src\test\resources
+2024-07-25 18:28:03,890 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:28:03,890 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 18:28:03,892 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:28:03,892 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo2\SpringDemo2\src\test\resources
+2024-07-25 18:30:06,323 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:30:06,324 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 18:30:06,327 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:30:06,328 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo2\SpringDemo2\src\test\resources
+2024-07-25 18:33:07,391 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:33:07,391 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 18:33:07,393 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:33:07,393 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo2\SpringDemo2\src\test\resources
+2024-07-25 18:33:38,200 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:33:38,200 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 18:33:38,201 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:33:38,202 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo2\SpringDemo2\src\test\resources
+2024-07-25 18:33:59,625 [Worker-20: Launching Test2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:33:59,626 [Worker-20: Launching Test2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 18:33:59,628 [Worker-20: Launching Test2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:33:59,628 [Worker-20: Launching Test2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo2\SpringDemo2\src\test\resources
+2024-07-25 18:35:35,975 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:35:35,977 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 18:35:35,979 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 18:35:35,979 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo2\SpringDemo2\src\test\resources
+2024-07-25 19:38:44,124 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-25 19:40:19,664 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\STS Demo\Spring\SpringDemo3\SpringDemo3List\pom.xml
+2024-07-25 19:40:23,817 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemo3List:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo3\SpringDemo3List\pom.xml.
+2024-07-25 19:40:25,511 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDemo3List/src/main/java
+2024-07-25 19:40:25,517 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDemo3List/src/test/java
+2024-07-25 19:40:25,684 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2024-07-25 19:40:26,574 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:40:26,574 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo3\SpringDemo3List\src\main\resources
+2024-07-25 19:40:26,576 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:40:26,576 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo3\SpringDemo3List\src\test\resources
+2024-07-25 19:40:51,345 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:40:51,345 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo3\SpringDemo3List\src\main\resources
+2024-07-25 19:40:51,348 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:40:51,349 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo3\SpringDemo3List\src\test\resources
+2024-07-25 19:41:04,119 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:41:04,119 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo3\SpringDemo3List\src\main\resources
+2024-07-25 19:41:04,120 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:41:04,122 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo3\SpringDemo3List\src\test\resources
+2024-07-25 19:41:40,953 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:41:40,990 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 19:41:40,993 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:41:40,993 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo3\SpringDemo3List\src\test\resources
+2024-07-25 19:42:08,971 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:42:08,972 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 19:42:08,980 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:42:08,980 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo3\SpringDemo3List\src\test\resources
+2024-07-25 19:42:46,422 [Worker-5: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemo3List:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo3\SpringDemo3List\pom.xml.
+2024-07-25 19:42:46,736 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:42:46,737 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 19:42:46,739 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:42:46,739 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo3\SpringDemo3List\src\test\resources
+2024-07-25 19:42:48,108 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:42:48,109 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 19:42:48,114 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:42:48,114 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo3\SpringDemo3List\src\test\resources
+2024-07-25 19:44:16,898 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:44:16,899 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 19:44:16,901 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:44:16,901 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo3\SpringDemo3List\src\test\resources
+2024-07-25 19:45:00,565 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:45:00,565 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 19:45:00,567 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:45:00,567 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo3\SpringDemo3List\src\test\resources
+2024-07-25 19:45:15,265 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:45:15,266 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 19:45:15,267 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:45:15,268 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo3\SpringDemo3List\src\test\resources
+2024-07-25 19:45:46,477 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:45:46,478 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 19:45:46,481 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:45:46,481 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo3\SpringDemo3List\src\test\resources
+2024-07-25 19:46:06,221 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-25 19:46:06,790 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemo3List:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo3\SpringDemo3List\pom.xml.
+2024-07-25 19:46:06,960 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDemo3List/src/main/java
+2024-07-25 19:46:06,960 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringDemo3List/src/main/resources
+2024-07-25 19:46:06,995 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDemo3List/src/test/java
+2024-07-25 19:46:07,262 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2024-07-25 19:46:08,275 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:46:08,277 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 19:46:08,286 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:46:08,286 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo3\SpringDemo3List\src\test\resources
+2024-07-25 19:48:52,554 [Worker-2: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\STS Demo\Spring\SpringDemo4\SpringDemo4Set\pom.xml
+2024-07-25 19:48:52,681 [Worker-2: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemo4Set:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo4\SpringDemo4Set\pom.xml.
+2024-07-25 19:48:53,309 [Worker-2: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDemo4Set/src/main/java
+2024-07-25 19:48:53,321 [Worker-2: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDemo4Set/src/test/java
+2024-07-25 19:48:53,395 [Worker-2: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-07-25 19:48:53,706 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:48:53,706 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo4\SpringDemo4Set\src\main\resources
+2024-07-25 19:48:53,707 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:48:53,708 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo4\SpringDemo4Set\src\test\resources
+2024-07-25 19:50:13,008 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:50:13,008 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo4\SpringDemo4Set\src\main\resources
+2024-07-25 19:50:13,010 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:50:13,010 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo4\SpringDemo4Set\src\test\resources
+2024-07-25 19:50:34,339 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:50:34,339 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo4\SpringDemo4Set\src\main\resources
+2024-07-25 19:50:34,341 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:50:34,341 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo4\SpringDemo4Set\src\test\resources
+2024-07-25 19:51:06,981 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:51:06,982 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo4\SpringDemo4Set\src\main\resources
+2024-07-25 19:51:06,987 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:51:06,987 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo4\SpringDemo4Set\src\test\resources
+2024-07-25 19:51:34,966 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:51:34,974 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 19:51:34,977 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:51:34,977 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo4\SpringDemo4Set\src\test\resources
+2024-07-25 19:52:07,426 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:52:07,426 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 19:52:07,427 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:52:07,428 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo4\SpringDemo4Set\src\test\resources
+2024-07-25 19:52:52,348 [Worker-0: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemo4Set:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo4\SpringDemo4Set\pom.xml.
+2024-07-25 19:52:52,820 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:52:52,820 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 19:52:52,822 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:52:52,822 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo4\SpringDemo4Set\src\test\resources
+2024-07-25 19:52:54,018 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:52:54,020 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 19:52:54,021 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:52:54,021 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo4\SpringDemo4Set\src\test\resources
+2024-07-25 19:53:17,590 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-25 19:53:17,990 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemo3List:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo3\SpringDemo3List\pom.xml.
+2024-07-25 19:53:18,060 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemo4Set:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo4\SpringDemo4Set\pom.xml.
+2024-07-25 19:53:18,219 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDemo4Set/src/main/java
+2024-07-25 19:53:18,219 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringDemo4Set/src/main/resources
+2024-07-25 19:53:18,223 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDemo4Set/src/test/java
+2024-07-25 19:53:18,437 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2024-07-25 19:53:19,147 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:53:19,148 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 19:53:19,150 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:53:19,150 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo3\SpringDemo3List\src\test\resources
+2024-07-25 19:53:19,204 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:53:19,204 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 19:53:19,213 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:53:19,213 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo4\SpringDemo4Set\src\test\resources
+2024-07-25 19:53:50,300 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:53:50,301 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 19:53:50,303 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:53:50,303 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo4\SpringDemo4Set\src\test\resources
+2024-07-25 19:56:33,988 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:56:33,988 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 19:56:33,989 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:56:33,990 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo4\SpringDemo4Set\src\test\resources
+2024-07-25 19:57:00,908 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:57:00,908 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 19:57:00,910 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:57:00,910 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo4\SpringDemo4Set\src\test\resources
+2024-07-25 19:57:11,662 [Worker-17: Launching Test4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:57:11,662 [Worker-17: Launching Test4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 19:57:11,664 [Worker-17: Launching Test4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 19:57:11,664 [Worker-17: Launching Test4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo4\SpringDemo4Set\src\test\resources
+2024-07-25 20:01:31,558 [Worker-0: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\STS Demo\Spring\SpringDemo5\SpringDemoAnnotation\pom.xml
+2024-07-25 20:01:31,654 [Worker-0: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemoAnnotation:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo5\SpringDemoAnnotation\pom.xml.
+2024-07-25 20:01:32,152 [Worker-0: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDemoAnnotation/src/main/java
+2024-07-25 20:01:32,155 [Worker-0: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDemoAnnotation/src/test/java
+2024-07-25 20:01:32,200 [Worker-0: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-07-25 20:01:32,424 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:01:32,425 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo5\SpringDemoAnnotation\src\main\resources
+2024-07-25 20:01:32,426 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:01:32,426 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo5\SpringDemoAnnotation\src\test\resources
+2024-07-25 20:02:50,346 [Worker-20: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemoAnnotation:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo5\SpringDemoAnnotation\pom.xml.
+2024-07-25 20:02:50,839 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:02:50,839 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo5\SpringDemoAnnotation\src\main\resources
+2024-07-25 20:02:50,841 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:02:50,841 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo5\SpringDemoAnnotation\src\test\resources
+2024-07-25 20:02:52,010 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:02:52,010 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo5\SpringDemoAnnotation\src\main\resources
+2024-07-25 20:02:52,011 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:02:52,011 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo5\SpringDemoAnnotation\src\test\resources
+2024-07-25 20:03:22,271 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:03:22,272 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo5\SpringDemoAnnotation\src\main\resources
+2024-07-25 20:03:22,272 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:03:22,273 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo5\SpringDemoAnnotation\src\test\resources
+2024-07-25 20:03:52,366 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:03:52,366 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo5\SpringDemoAnnotation\src\main\resources
+2024-07-25 20:03:52,367 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:03:52,367 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo5\SpringDemoAnnotation\src\test\resources
+2024-07-25 20:04:45,774 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:04:45,774 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo5\SpringDemoAnnotation\src\main\resources
+2024-07-25 20:04:45,776 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:04:45,776 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo5\SpringDemoAnnotation\src\test\resources
+2024-07-25 20:06:48,291 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:06:48,291 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo5\SpringDemoAnnotation\src\main\resources
+2024-07-25 20:06:48,292 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:06:48,293 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo5\SpringDemoAnnotation\src\test\resources
+2024-07-25 20:08:49,563 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:08:49,564 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo5\SpringDemoAnnotation\src\main\resources
+2024-07-25 20:08:49,565 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:08:49,565 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo5\SpringDemoAnnotation\src\test\resources
+2024-07-25 20:09:02,801 [Worker-24: Launching Test5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:09:02,801 [Worker-24: Launching Test5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo5\SpringDemoAnnotation\src\main\resources
+2024-07-25 20:09:02,803 [Worker-24: Launching Test5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:09:02,803 [Worker-24: Launching Test5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo5\SpringDemoAnnotation\src\test\resources
+2024-07-25 20:10:56,519 [Worker-21: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\STS Demo\Spring\SpringDemo6\SpringDemoAnnotation2\pom.xml
+2024-07-25 20:10:56,611 [Worker-21: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemoAnnotation2:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo6\SpringDemoAnnotation2\pom.xml.
+2024-07-25 20:10:57,134 [Worker-21: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDemoAnnotation2/src/main/java
+2024-07-25 20:10:57,140 [Worker-21: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDemoAnnotation2/src/test/java
+2024-07-25 20:10:57,198 [Worker-21: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-07-25 20:10:57,439 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:10:57,439 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo6\SpringDemoAnnotation2\src\main\resources
+2024-07-25 20:10:57,441 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:10:57,441 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo6\SpringDemoAnnotation2\src\test\resources
+2024-07-25 20:11:24,100 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:11:24,100 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo6\SpringDemoAnnotation2\src\main\resources
+2024-07-25 20:11:24,101 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:11:24,101 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo6\SpringDemoAnnotation2\src\test\resources
+2024-07-25 20:12:12,551 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:12:12,553 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo6\SpringDemoAnnotation2\src\main\resources
+2024-07-25 20:12:12,556 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:12:12,556 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo6\SpringDemoAnnotation2\src\test\resources
+2024-07-25 20:12:37,387 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:12:37,388 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo6\SpringDemoAnnotation2\src\main\resources
+2024-07-25 20:12:37,389 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:12:37,389 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo6\SpringDemoAnnotation2\src\test\resources
+2024-07-25 20:13:36,247 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:13:36,247 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo6\SpringDemoAnnotation2\src\main\resources
+2024-07-25 20:13:36,248 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:13:36,248 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo6\SpringDemoAnnotation2\src\test\resources
+2024-07-25 20:14:32,806 [Worker-23: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemoAnnotation2:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo6\SpringDemoAnnotation2\pom.xml.
+2024-07-25 20:14:32,962 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:14:32,963 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo6\SpringDemoAnnotation2\src\main\resources
+2024-07-25 20:14:32,963 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:14:32,964 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo6\SpringDemoAnnotation2\src\test\resources
+2024-07-25 20:14:34,138 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:14:34,138 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo6\SpringDemoAnnotation2\src\main\resources
+2024-07-25 20:14:34,138 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:14:34,138 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo6\SpringDemoAnnotation2\src\test\resources
+2024-07-25 20:15:16,865 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-25 20:15:17,250 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemoAnnotation:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo5\SpringDemoAnnotation\pom.xml.
+2024-07-25 20:15:17,288 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemo3List:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo3\SpringDemo3List\pom.xml.
+2024-07-25 20:15:17,344 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemo4Set:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo4\SpringDemo4Set\pom.xml.
+2024-07-25 20:15:17,386 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemoAnnotation2:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo6\SpringDemoAnnotation2\pom.xml.
+2024-07-25 20:15:17,537 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDemoAnnotation2/src/main/java
+2024-07-25 20:15:17,538 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDemoAnnotation2/src/test/java
+2024-07-25 20:15:17,683 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2024-07-25 20:15:18,318 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:15:18,319 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 20:15:18,320 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:15:18,320 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo3\SpringDemo3List\src\test\resources
+2024-07-25 20:15:18,337 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:15:18,338 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 20:15:18,338 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:15:18,338 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo4\SpringDemo4Set\src\test\resources
+2024-07-25 20:15:18,363 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:15:18,364 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo5\SpringDemoAnnotation\src\main\resources
+2024-07-25 20:15:18,365 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:15:18,365 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo5\SpringDemoAnnotation\src\test\resources
+2024-07-25 20:15:18,423 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:15:18,423 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo6\SpringDemoAnnotation2\src\main\resources
+2024-07-25 20:15:18,426 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:15:18,426 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo6\SpringDemoAnnotation2\src\test\resources
+2024-07-25 20:18:23,200 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:18:23,200 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo6\SpringDemoAnnotation2\src\main\resources
+2024-07-25 20:18:23,201 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:18:23,201 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo6\SpringDemoAnnotation2\src\test\resources
+2024-07-25 20:20:24,914 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:20:24,914 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo6\SpringDemoAnnotation2\src\main\resources
+2024-07-25 20:20:24,916 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:20:24,916 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo6\SpringDemoAnnotation2\src\test\resources
+2024-07-25 20:23:38,590 [Worker-27: Launching Test6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:23:38,590 [Worker-27: Launching Test6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo6\SpringDemoAnnotation2\src\main\resources
+2024-07-25 20:23:38,591 [Worker-27: Launching Test6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:23:38,591 [Worker-27: Launching Test6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo6\SpringDemoAnnotation2\src\test\resources
+2024-07-25 20:26:35,328 [Worker-26: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\STS Demo\Spring\SpringDemo7\SpringDemoAnnotation3\pom.xml
+2024-07-25 20:26:35,434 [Worker-26: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemoAnnotation3:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo7\SpringDemoAnnotation3\pom.xml.
+2024-07-25 20:26:35,739 [Worker-26: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDemoAnnotation3/src/main/java
+2024-07-25 20:26:35,750 [Worker-26: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDemoAnnotation3/src/test/java
+2024-07-25 20:26:35,823 [Worker-26: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-07-25 20:26:36,111 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:26:36,111 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo7\SpringDemoAnnotation3\src\main\resources
+2024-07-25 20:26:36,115 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:26:36,116 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo7\SpringDemoAnnotation3\src\test\resources
+2024-07-25 20:27:22,862 [Worker-24: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemoAnnotation3:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo7\SpringDemoAnnotation3\pom.xml.
+2024-07-25 20:27:23,472 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:27:23,472 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo7\SpringDemoAnnotation3\src\main\resources
+2024-07-25 20:27:23,473 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:27:23,473 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo7\SpringDemoAnnotation3\src\test\resources
+2024-07-25 20:27:24,672 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:27:24,672 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo7\SpringDemoAnnotation3\src\main\resources
+2024-07-25 20:27:24,673 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:27:24,673 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo7\SpringDemoAnnotation3\src\test\resources
+2024-07-25 20:27:40,801 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-25 20:27:41,159 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemoAnnotation:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo5\SpringDemoAnnotation\pom.xml.
+2024-07-25 20:27:41,206 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemo3List:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo3\SpringDemo3List\pom.xml.
+2024-07-25 20:27:41,276 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemo4Set:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo4\SpringDemo4Set\pom.xml.
+2024-07-25 20:27:41,347 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemoAnnotation3:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo7\SpringDemoAnnotation3\pom.xml.
+2024-07-25 20:27:41,420 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemoAnnotation2:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo6\SpringDemoAnnotation2\pom.xml.
+2024-07-25 20:27:41,627 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDemoAnnotation3/src/main/java
+2024-07-25 20:27:41,627 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDemoAnnotation3/src/test/java
+2024-07-25 20:27:41,752 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2024-07-25 20:27:42,278 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:27:42,280 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 20:27:42,282 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:27:42,282 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo3\SpringDemo3List\src\test\resources
+2024-07-25 20:27:42,323 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:27:42,324 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 20:27:42,325 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:27:42,325 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo4\SpringDemo4Set\src\test\resources
+2024-07-25 20:27:42,344 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:27:42,344 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo5\SpringDemoAnnotation\src\main\resources
+2024-07-25 20:27:42,345 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:27:42,345 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo5\SpringDemoAnnotation\src\test\resources
+2024-07-25 20:27:42,365 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:27:42,366 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo6\SpringDemoAnnotation2\src\main\resources
+2024-07-25 20:27:42,366 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:27:42,367 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo6\SpringDemoAnnotation2\src\test\resources
+2024-07-25 20:27:42,410 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:27:42,410 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo7\SpringDemoAnnotation3\src\main\resources
+2024-07-25 20:27:42,414 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:27:42,425 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo7\SpringDemoAnnotation3\src\test\resources
+2024-07-25 20:28:29,123 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:28:29,123 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo7\SpringDemoAnnotation3\src\main\resources
+2024-07-25 20:28:29,124 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:28:29,124 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo7\SpringDemoAnnotation3\src\test\resources
+2024-07-25 20:28:51,576 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:28:51,577 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo7\SpringDemoAnnotation3\src\main\resources
+2024-07-25 20:28:51,577 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:28:51,578 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo7\SpringDemoAnnotation3\src\test\resources
+2024-07-25 20:29:45,177 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:29:45,178 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo7\SpringDemoAnnotation3\src\main\resources
+2024-07-25 20:29:45,180 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:29:45,180 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo7\SpringDemoAnnotation3\src\test\resources
+2024-07-25 20:33:32,832 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:33:32,832 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo7\SpringDemoAnnotation3\src\main\resources
+2024-07-25 20:33:32,834 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:33:32,835 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo7\SpringDemoAnnotation3\src\test\resources
+2024-07-25 20:33:39,114 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:33:39,114 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo7\SpringDemoAnnotation3\src\main\resources
+2024-07-25 20:33:39,117 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:33:39,117 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo7\SpringDemoAnnotation3\src\test\resources
+2024-07-25 20:33:51,741 [Worker-27: Launching Test7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:33:51,742 [Worker-27: Launching Test7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo7\SpringDemoAnnotation3\src\main\resources
+2024-07-25 20:33:51,743 [Worker-27: Launching Test7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:33:51,743 [Worker-27: Launching Test7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo7\SpringDemoAnnotation3\src\test\resources
+2024-07-25 20:35:31,102 [Worker-24: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\STS Demo\Spring\SpringDemo8\SpringDemoAnnotation4Set\pom.xml
+2024-07-25 20:35:31,194 [Worker-24: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemoAnnotation4Set:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo8\SpringDemoAnnotation4Set\pom.xml.
+2024-07-25 20:35:31,794 [Worker-24: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDemoAnnotation4Set/src/main/java
+2024-07-25 20:35:31,800 [Worker-24: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDemoAnnotation4Set/src/test/java
+2024-07-25 20:35:31,846 [Worker-24: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-07-25 20:35:32,098 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:35:32,098 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo8\SpringDemoAnnotation4Set\src\main\resources
+2024-07-25 20:35:32,101 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:35:32,103 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo8\SpringDemoAnnotation4Set\src\test\resources
+2024-07-25 20:36:18,462 [Worker-24: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemoAnnotation4Set:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo8\SpringDemoAnnotation4Set\pom.xml.
+2024-07-25 20:36:19,053 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:36:19,054 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo8\SpringDemoAnnotation4Set\src\main\resources
+2024-07-25 20:36:19,056 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:36:19,056 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo8\SpringDemoAnnotation4Set\src\test\resources
+2024-07-25 20:36:20,228 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:36:20,228 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo8\SpringDemoAnnotation4Set\src\main\resources
+2024-07-25 20:36:20,229 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:36:20,230 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo8\SpringDemoAnnotation4Set\src\test\resources
+2024-07-25 20:36:43,789 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:36:43,789 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo8\SpringDemoAnnotation4Set\src\main\resources
+2024-07-25 20:36:43,790 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:36:43,790 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo8\SpringDemoAnnotation4Set\src\test\resources
+2024-07-25 20:37:19,638 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:37:19,638 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo8\SpringDemoAnnotation4Set\src\main\resources
+2024-07-25 20:37:19,640 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:37:19,642 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo8\SpringDemoAnnotation4Set\src\test\resources
+2024-07-25 20:37:47,077 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:37:47,077 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo8\SpringDemoAnnotation4Set\src\main\resources
+2024-07-25 20:37:47,078 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:37:47,078 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo8\SpringDemoAnnotation4Set\src\test\resources
+2024-07-25 20:38:24,079 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:38:24,079 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo8\SpringDemoAnnotation4Set\src\main\resources
+2024-07-25 20:38:24,080 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:38:24,080 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo8\SpringDemoAnnotation4Set\src\test\resources
+2024-07-25 20:39:21,163 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-25 20:39:21,557 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemo3List:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo3\SpringDemo3List\pom.xml.
+2024-07-25 20:39:21,604 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemo4Set:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo4\SpringDemo4Set\pom.xml.
+2024-07-25 20:39:21,646 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemoAnnotation3:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo7\SpringDemoAnnotation3\pom.xml.
+2024-07-25 20:39:21,695 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemoAnnotation2:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo6\SpringDemoAnnotation2\pom.xml.
+2024-07-25 20:39:21,742 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemoAnnotation4Set:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo8\SpringDemoAnnotation4Set\pom.xml.
+2024-07-25 20:39:21,929 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDemoAnnotation4Set/src/main/java
+2024-07-25 20:39:21,929 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDemoAnnotation4Set/src/test/java
+2024-07-25 20:39:22,059 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2024-07-25 20:39:22,644 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:39:22,647 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 20:39:22,649 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:39:22,649 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo3\SpringDemo3List\src\test\resources
+2024-07-25 20:39:22,668 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:39:22,668 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 20:39:22,669 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:39:22,669 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo4\SpringDemo4Set\src\test\resources
+2024-07-25 20:39:22,686 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:39:22,686 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo6\SpringDemoAnnotation2\src\main\resources
+2024-07-25 20:39:22,686 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:39:22,687 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo6\SpringDemoAnnotation2\src\test\resources
+2024-07-25 20:39:22,702 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:39:22,702 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo7\SpringDemoAnnotation3\src\main\resources
+2024-07-25 20:39:22,702 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:39:22,703 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo7\SpringDemoAnnotation3\src\test\resources
+2024-07-25 20:39:22,751 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:39:22,751 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo8\SpringDemoAnnotation4Set\src\main\resources
+2024-07-25 20:39:22,752 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:39:22,752 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo8\SpringDemoAnnotation4Set\src\test\resources
+2024-07-25 20:41:09,170 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:41:09,170 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo8\SpringDemoAnnotation4Set\src\main\resources
+2024-07-25 20:41:09,172 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:41:09,172 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo8\SpringDemoAnnotation4Set\src\test\resources
+2024-07-25 20:42:20,690 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:42:20,690 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo8\SpringDemoAnnotation4Set\src\main\resources
+2024-07-25 20:42:20,692 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:42:20,692 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo8\SpringDemoAnnotation4Set\src\test\resources
+2024-07-25 20:42:41,668 [Worker-32: Launching Test8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:42:41,669 [Worker-32: Launching Test8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo8\SpringDemoAnnotation4Set\src\main\resources
+2024-07-25 20:42:41,673 [Worker-32: Launching Test8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:42:41,673 [Worker-32: Launching Test8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo8\SpringDemoAnnotation4Set\src\test\resources
+2024-07-25 20:45:01,725 [Worker-30: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\STS Demo\Spring\SpringDemo9\SpringDemo5Map\pom.xml
+2024-07-25 20:45:01,811 [Worker-30: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemo5Map:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo9\SpringDemo5Map\pom.xml.
+2024-07-25 20:45:02,101 [Worker-30: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDemo5Map/src/main/java
+2024-07-25 20:45:02,115 [Worker-30: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDemo5Map/src/test/java
+2024-07-25 20:45:02,162 [Worker-30: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-07-25 20:45:02,367 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:45:02,367 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo9\SpringDemo5Map\src\main\resources
+2024-07-25 20:45:02,368 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:45:02,368 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo9\SpringDemo5Map\src\test\resources
+2024-07-25 20:45:23,170 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:45:23,170 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 20:45:23,172 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:45:23,172 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo9\SpringDemo5Map\src\test\resources
+2024-07-25 20:46:05,007 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:46:05,008 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 20:46:05,015 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:46:05,015 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo9\SpringDemo5Map\src\test\resources
+2024-07-25 20:46:21,244 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:46:21,244 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 20:46:21,246 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:46:21,246 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo9\SpringDemo5Map\src\test\resources
+2024-07-25 20:46:55,740 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:46:55,740 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 20:46:55,741 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:46:55,742 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo9\SpringDemo5Map\src\test\resources
+2024-07-25 20:47:23,713 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:47:23,713 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 20:47:23,714 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:47:23,714 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo9\SpringDemo5Map\src\test\resources
+2024-07-25 20:48:09,173 [Worker-26: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemo5Map:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo9\SpringDemo5Map\pom.xml.
+2024-07-25 20:48:09,447 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:48:09,447 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-25 20:48:09,449 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:48:09,449 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo9\SpringDemo5Map\src\test\resources
+2024-07-25 20:48:10,663 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:48:10,664 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 20:48:10,666 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:48:10,667 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo9\SpringDemo5Map\src\test\resources
+2024-07-25 20:48:37,042 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:48:37,043 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 20:48:37,116 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:48:37,116 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo9\SpringDemo5Map\src\test\resources
+2024-07-25 20:49:14,848 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:49:14,849 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 20:49:14,850 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:49:14,850 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo9\SpringDemo5Map\src\test\resources
+2024-07-25 20:49:30,591 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:49:30,593 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 20:49:30,595 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:49:30,596 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo9\SpringDemo5Map\src\test\resources
+2024-07-25 20:50:14,701 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:50:14,702 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-25 20:50:14,706 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:50:14,706 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo9\SpringDemo5Map\src\test\resources
+2024-07-25 20:52:56,337 [Worker-26: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\STS Demo\Spring\SpringDemo10\SpringDemoAnnotation5Map\pom.xml
+2024-07-25 20:52:56,467 [Worker-26: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemoAnnotation5Map:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo10\SpringDemoAnnotation5Map\pom.xml.
+2024-07-25 20:52:57,065 [Worker-26: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDemoAnnotation5Map/src/main/java
+2024-07-25 20:52:57,075 [Worker-26: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDemoAnnotation5Map/src/test/java
+2024-07-25 20:52:57,149 [Worker-26: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-07-25 20:52:57,353 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:52:57,353 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo10\SpringDemoAnnotation5Map\src\main\resources
+2024-07-25 20:52:57,355 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:52:57,355 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo10\SpringDemoAnnotation5Map\src\test\resources
+2024-07-25 20:53:13,259 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:53:13,259 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo10\SpringDemoAnnotation5Map\src\main\resources
+2024-07-25 20:53:13,260 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:53:13,260 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo10\SpringDemoAnnotation5Map\src\test\resources
+2024-07-25 20:53:40,365 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:53:40,365 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo10\SpringDemoAnnotation5Map\src\main\resources
+2024-07-25 20:53:40,366 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:53:40,366 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo10\SpringDemoAnnotation5Map\src\test\resources
+2024-07-25 20:54:19,521 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:54:19,522 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo10\SpringDemoAnnotation5Map\src\main\resources
+2024-07-25 20:54:19,524 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:54:19,525 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo10\SpringDemoAnnotation5Map\src\test\resources
+2024-07-25 20:54:58,214 [Worker-30: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.primepro:SpringDemoAnnotation5Map:0.0.1-SNAPSHOT @ D:\STS Demo\Spring\SpringDemo10\SpringDemoAnnotation5Map\pom.xml.
+2024-07-25 20:54:58,897 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:54:58,898 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo10\SpringDemoAnnotation5Map\src\main\resources
+2024-07-25 20:54:58,899 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:54:58,899 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo10\SpringDemoAnnotation5Map\src\test\resources
+2024-07-25 20:55:00,133 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:55:00,133 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo10\SpringDemoAnnotation5Map\src\main\resources
+2024-07-25 20:55:00,134 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:55:00,134 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo10\SpringDemoAnnotation5Map\src\test\resources
+2024-07-25 20:55:46,357 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:55:46,358 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo10\SpringDemoAnnotation5Map\src\main\resources
+2024-07-25 20:55:46,361 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:55:46,362 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo10\SpringDemoAnnotation5Map\src\test\resources
+2024-07-25 20:58:20,031 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:58:20,031 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo10\SpringDemoAnnotation5Map\src\main\resources
+2024-07-25 20:58:20,032 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:58:20,033 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo10\SpringDemoAnnotation5Map\src\test\resources
+2024-07-25 20:58:46,122 [Worker-36: Launching Test10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:58:46,122 [Worker-36: Launching Test10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo10\SpringDemoAnnotation5Map\src\main\resources
+2024-07-25 20:58:46,122 [Worker-36: Launching Test10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-25 20:58:46,123 [Worker-36: Launching Test10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\STS Demo\Spring\SpringDemo10\SpringDemoAnnotation5Map\src\test\resources

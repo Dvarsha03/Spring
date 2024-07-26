@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans https://www.springframework.org/schema/beans/spring-beans-4.3.xsd">
+
+ <bean name="quiz" class="org.primepro.beans.Quiz">
+ <property name="question" value="What is java"/>
+ <property name="answers">
+  <map>
+    <entry key="Java is a OOP Language" value="Vaishali"/>
+     <entry key="Java is a island" value="Amol"/>
+     <entry key="Java is a POP Language" value="Alisha"/>
+  </map>
+ </property>
+</bean>
+ 
